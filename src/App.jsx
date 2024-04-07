@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 import logo from './assets/images/Logo.svg';
 import heroImage from './assets/images/Hero.jpg';
-import section01Image from './assets/images/Section01.png';
-import section02Image from './assets/images/Section02.png';
+import section01Image from './assets/images/Section01.webp';
+import section02Image from './assets/images/Section02.webp';
 
 import MenuRoundedIcon from '@mui/icons-material/MenuRounded';
 import CloseIcon from '@mui/icons-material/Close';
