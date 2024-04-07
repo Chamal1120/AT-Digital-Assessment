@@ -9,13 +9,13 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/Chamal1120/AT-Digital-Assessment
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-    cd at_digital_task
+    cd AT-Digital-Assessment
 ```
 
 3. nstall dependencies using pnpm:
@@ -56,9 +56,9 @@ This command will generate optimized production-ready assets in the dist directo
 The project directory structure is as follows:
 
     src: Contains the source code files.
-        assets: Includes images and other static assets used in the project.
-        components: Contains React components used throughout the application.
-        App.js: Entry point of the application.
+    assets: Includes images and other static assets used in the project.
+    components: Contains React components used throughout the application.
+    App.js: Entry point of the application.
     package.json: Configuration file for npm dependencies and scripts.
 
 ## Technologies Used
