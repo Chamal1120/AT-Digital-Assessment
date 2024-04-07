@@ -26,7 +26,7 @@ export default {
                 custom: '1440px', // Custom max width value
             },
             maxHeight: {
-                128: '40rem',
+                128: '42rem',
             },
         },
     },
