@@ -6,6 +6,17 @@ This project is a web application developed for the front-end dev assessment of 
 
 View the live version of the project from this link 👉 [atdigital-chamal1120.netlify.app](https://atdigital-chamal1120.netlify.app/).
 
+## Table of Content
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+    - [Development Mode](#development-mode)
+    - [Build](#build)
+3. [Project Structure](#project-structure)
+4. [Technologies used](#technologies-used)
+5. [Additional fonts](#additional-fonts)
+6. [Scripts](#scripts)
+
 ## Installation
 
 To get started with the project, follow these steps:
