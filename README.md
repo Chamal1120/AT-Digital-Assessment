@@ -2,6 +2,10 @@
 
 This project is a web application developed for the front-end dev assessment of AT Digital pvt Ltd using [Vite.js](https://vitejs.dev/) and managed with [pnpm](https://pnpm.io/). It utilizes various technologies and libraries to create a dynamic and responsive web experience.
 
+### Live Version
+
+View the live version of the project from this link 👉 [atdigital-chamal1120.netlify.app](https://atdigital-chamal1120.netlify.app/).
+
 ## Installation
 
 To get started with the project, follow these steps:
@@ -18,7 +22,7 @@ git clone https://github.com/Chamal1120/AT-Digital-Assessment
 cd AT-Digital-Assessment
 ```
 
-3. nstall dependencies using pnpm:
+3. Install dependencies using pnpm:
 
 ```bash
 pnpm install
@@ -55,35 +59,42 @@ This command will generate optimized production-ready assets in the dist directo
 
 The project directory structure is as follows:
 
-    src: Contains the source code files.
-    assets: Includes images and other static assets used in the project.
-    components: Contains React components used throughout the application.
-    App.js: Entry point of the application.
-    package.json: Configuration file for npm dependencies and scripts.
+📂 **public**: Contains the favicon of the website. <br>
+📂 **src**: Contains the source code files. <br>
+📂 **assets/images**: Includes images used in the project. <br>
+📂 **App.jsx**: Entry point of the application. <br>
+📂 **package.json**: Configuration file for dependencies and scripts. <br>
+📂 **tailwind.config.js**: Tailwind CSS configurations. <br>
+📂 **vite.config.js**: Vite.js configurations. <br>
+📂 **eslintrc.cjs**: Eslint configurations. <br>
+📂 **.prettierrc**: Prettier configurations. <br>
+📂 **.gitignore**: Ignored files when pushing to the git repo. <br>
+📂 **.prettierignore**: Ignored files when foramatting with prettier. <br>
 
 ## Technologies Used
 
-1. Vite.js: Fast, opinionated web dev build tool that serves your code via native ES modules.
-2. React: JavaScript library for building user interfaces.
-3. Material-UI: React components library for faster and easier web development.
-4. Emotion: Library for writing CSS styles with JavaScript.
-5. Tailwind CSS: Utility-first CSS framework for rapidly building custom designs.
+-   **Vite.js**: Fast, opinionated web dev build tool that serves your code via native ES modules.
+-   **React**: JavaScript library for building user interfaces.
+-   **Material-UI-Icons**: Icons for faster and easier icons.
+-   **Tailwind CSS**: Utility-first CSS framework for rapidly building custom designs.
+-   **Eslint** - For linting the codebase for a clean, maintainable and scalable code.
+-   **Prettier** - For code formatting to provdide a clutter free viewing experience of the code.
 
 ## Additional Fonts
 
 The project utilizes extra fonts (Inter, Lato, and Poppins) provided by the Bunny Fonts CDN.
 
-Bunny Fonts is an open-source, privacy-first google fonts drop in replacement web font platform designed With a zero-tracking, no-logging policy and fully GDPR compliant.
+**Bunny Fonts** is an open-source and privacy-first **google fonts drop-in-replacement** designed with a **zero-tracking**, **no-logging policy** and **fully GDPR compliant**.
 
-Learn more about GDPR (General Data Protection Regulation) from here 👉 https://gdpr-info.eu/
+💡 Learn more about GDPR (General Data Protection Regulation) from here 👉 https://gdpr-info.eu/
 
-If you want to use bunny fonts in your project 👉 https://fonts.bunny.net
+💡 If you want to use bunny fonts in your project 👉 https://fonts.bunny.net
 
 ## Scripts
 
--   dev: Runs the development server using Vite.
--   build: Builds the project for production.
--   lint: Lints the source code files using ESLint.
--   preview: Previews the production build locally.
+-   **dev**: Runs the development server using Vite.
+-   **build**: Builds the project for production.
+-   **lint**: Lints the source code files using ESLint.
+-   **preview**: Previews the production build locally.
 
 ## Thank You for reading till the end! ❤️
